@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">bt1buoi2</string>
+    <string name="btn1">Xong</string>
+    <string name="btn2">Đăng nhập</string>
+    <string name="dangnhap">Đăng nhập vào hệ thống</string>
+    <string name="cscom">CSCOM</string>
+    <string name="save">Lưu thông tin đăng nhập</string>
+</resources>
